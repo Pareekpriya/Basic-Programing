@@ -8,3 +8,11 @@ function checkPrime(num){
 };
 
 console.log(checkPrime(3));
+
+
+function evenOdd(num){
+    if(num%2==0){
+        return true
+    }
+    false
+};
